@@ -1,5 +1,7 @@
+# NAME : Naveen Kumar T
+# REGISTER NUMBER : 212223220067
 # Linux-IPC-Shared-memory
-Ex06-Linux IPC-Shared-memory
+#Ex06-Linux IPC-Shared-memory
 
 # AIM:
 To Write a C program that illustrates two processes communicating using shared memory.
@@ -19,8 +21,6 @@ Write the C Program using Linux Process API - Shared Memory
 Execute the C Program for the desired output. 
 
 # PROGRAM:
-## NAME : AARON RAJESH R
-## REGISTER NUMBER : 212223100001
 ## Write a C program that illustrates two processes communicating using shared memory.
 ```
 #include <stdio.h>
